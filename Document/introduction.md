@@ -1,8 +1,8 @@
-# Zereri
+# Zeri
 
 ### 前言
 
-    Zereri，PHP框架，一个适用但不仅限于**开发后端接口**的轻量级框架，采用了主流的mvc架构，同时附加了一些实用的功能，让项目的开发变得更便捷。
+    Zeri，PHP框架，一个适用但不仅限于**开发后端接口**的轻量级框架，采用了主流的mvc架构，同时附加了一些实用的功能，让项目的开发变得更便捷。
 
 <br/>
 
@@ -13,24 +13,12 @@
 - PDO PHP 扩展
 - Mbstring PHP 扩展
 
-
-<br/>
-
-### 安装
-
-- 直接在[Github Releases](https://github.com/sostuts/Zereri/releases)下载最新版。
-- Composer 安装:
-
-```bash
-composer create-project zereri/zereri Your-Project-Name
-```
-
 <br/>
 
 ### 目录结构
 
 ```bash
-Zereri-1.0
+Zeri-1.0
 ├── App
 │   ├── Config			 # 配置文件
 │   ├── Controllers	      # 控制器文件
